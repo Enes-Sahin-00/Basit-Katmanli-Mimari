@@ -1,0 +1,40 @@
+-- Veritabanını kullan
+USE EntiityPersonel;
+GO
+
+-- Birimler tablosunu oluştur
+CREATE TABLE dbo.Birimler (
+    BirimID INT IDENTITY(1,1) PRIMARY KEY,
+    BirimAdı NVARCHAR(50),
+    Acıklama TEXT
+);
+GO
+
+-- Personeller tablosunu oluştur
+CREATE TABLE dbo.Personeller (
+    PersonelID INT IDENTITY(1,1) PRIMARY KEY,
+    BirimID INT FOREIGN KEY REFERENCES dbo.Birimler(BirimID),
+    AdıSoyadı VARCHAR(50),
+    Telefon VARCHAR(20),
+    Adress TEXT,
+    Email VARCHAR(150),
+    Tarih DATE,
+    IsActive BIT
+);
+GO
+
+-- Personel ve birim bilgilerini birleştiren görünümü oluştur
+CREATE VIEW dbo.viewPersonelBirim AS
+SELECT 
+    p.PersonelID,
+    p.BirimID,
+    p.AdıSoyadı,
+    p.Telefon,
+    p.Adress,
+    p.Email,
+    p.Tarih,
+    p.IsActive,
+    b.BirimAdı
+FROM dbo.Personeller p
+INNER JOIN dbo.Birimler b ON p.BirimID = b.BirimID;
+GO

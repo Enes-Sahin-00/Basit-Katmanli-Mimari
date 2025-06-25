@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\kütüphaneOtomasyonu\kütüphaneOtomasyonu\obj\Debug\kütüphaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\kütüphaneOtomasyonu\kütüphaneOtomasyonu\obj\Debug\kütüphaneOtomasyonu.Properties.Resources.resources
+C:\Users\asus\source\repos\kütüphaneOtomasyonu\kütüphaneOtomasyonu\obj\Debug\kütüphaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\kütüphaneOtomasyonu\kütüphaneOtomasyonu\obj\Debug\kütüphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\kütüphaneOtomasyonu\kütüphaneOtomasyonu\bin\Debug\kütüphaneOtomasyonu.exe.config
+C:\Users\asus\source\repos\kütüphaneOtomasyonu\kütüphaneOtomasyonu\bin\Debug\kütüphaneOtomasyonu.exe
+C:\Users\asus\source\repos\kütüphaneOtomasyonu\kütüphaneOtomasyonu\bin\Debug\kütüphaneOtomasyonu.pdb
+C:\Users\asus\source\repos\kütüphaneOtomasyonu\kütüphaneOtomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\asus\source\repos\kütüphaneOtomasyonu\kütüphaneOtomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asus\source\repos\kütüphaneOtomasyonu\kütüphaneOtomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\asus\source\repos\kütüphaneOtomasyonu\kütüphaneOtomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asus\source\repos\kütüphaneOtomasyonu\kütüphaneOtomasyonu\obj\Debug\kütüphaneOtomasyonu.frmKatmanlıMimari.resources
+C:\Users\asus\source\repos\kütüphaneOtomasyonu\kütüphaneOtomasyonu\obj\Debug\k_t_phan.203AE850.Up2Date
+C:\Users\asus\source\repos\kütüphaneOtomasyonu\kütüphaneOtomasyonu\obj\Debug\kütüphaneOtomasyonu.exe
+C:\Users\asus\source\repos\kütüphaneOtomasyonu\kütüphaneOtomasyonu\obj\Debug\kütüphaneOtomasyonu.pdb
